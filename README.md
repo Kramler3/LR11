@@ -14,48 +14,48 @@
 
 1.	Создание ассетов 
 
-________![1](https://user-images.githubusercontent.com/119228138/204778903-85ee6510-eaf6-4b44-bf40-a887184f507e.png)
+        ![1](https://user-images.githubusercontent.com/119228138/204778903-85ee6510-eaf6-4b44-bf40-a887184f507e.png)
 
-________Рис. 11.1. Игровые ассеты 
+       Рис. 11.1. Игровые ассеты 
 
 2.	Объекты UI и её “дочки”
 
-________![2](https://user-images.githubusercontent.com/119228138/204778934-c697bd9a-cef9-4852-880a-47a46e0251ef.png)
+       ![2](https://user-images.githubusercontent.com/119228138/204778934-c697bd9a-cef9-4852-880a-47a46e0251ef.png)
 
 
-________Рис. 11.2 Объекты UI и её “дочки”
+       Рис. 11.2 Объекты UI и её “дочки”
  
-________![3](https://user-images.githubusercontent.com/119228138/204778952-198ad258-8808-4f6c-a770-ac47603b444e.png)
+       ![3](https://user-images.githubusercontent.com/119228138/204778952-198ad258-8808-4f6c-a770-ac47603b444e.png)
 
 
-________Рис. 11.3 Настройка EventSystem
+       Рис. 11.3 Настройка EventSystem
  
-________![4](https://user-images.githubusercontent.com/119228138/204778970-7a8b237e-3ad8-4259-8dc0-ab35eefed5ae.png)
-
- 
-________Рис.11.4. Настройка Canvas
- 
-________![5](https://user-images.githubusercontent.com/119228138/204779017-172f623b-12d9-4b5d-a359-1c2593548b39.png)
+       ![4](https://user-images.githubusercontent.com/119228138/204778970-7a8b237e-3ad8-4259-8dc0-ab35eefed5ae.png)
 
  
-________Рис.11.5 Настройка Timer UI
-
-________![6](https://user-images.githubusercontent.com/119228138/204779027-e4d10895-4aa7-4858-af98-0f457175a2b1.png)
+       Рис.11.4. Настройка Canvas
+ 
+       ![5](https://user-images.githubusercontent.com/119228138/204779017-172f623b-12d9-4b5d-a359-1c2593548b39.png)
 
  
-________Рис. 11.6 Настройка Fill
+       Рис.11.5 Настройка Timer UI
 
-________![7](https://user-images.githubusercontent.com/119228138/204779051-a65d1bc9-bbe7-44b3-80e1-a020141cdc06.png)
+       ![6](https://user-images.githubusercontent.com/119228138/204779027-e4d10895-4aa7-4858-af98-0f457175a2b1.png)
 
  
-________Рис. 11.7 Настройка Duration text
+       Рис. 11.6 Настройка Fill
+
+       ![7](https://user-images.githubusercontent.com/119228138/204779051-a65d1bc9-bbe7-44b3-80e1-a020141cdc06.png)
+
+ 
+       Рис. 11.7 Настройка Duration text
 
 3.	Настройка объекта Demo
  
- ________![8](https://user-images.githubusercontent.com/119228138/204779078-69f1f041-572e-4166-9a67-e1c8e11cb434.png)
+       ![8](https://user-images.githubusercontent.com/119228138/204779078-69f1f041-572e-4166-9a67-e1c8e11cb434.png)
 
  
-________Рис. 11.8 Настройка объекта Demo.cs
+       Рис. 11.8 Настройка объекта Demo.cs
 
 ```
 4.	Скрипт “Demo”
